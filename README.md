@@ -16,7 +16,7 @@ To be completed.
 
 ### [2] H. Unnibhavi, H. Choi, S. R. Alvar, and I. V. Bajić, "DFTS: Deep Feature Transmission Simulator," demo paper at IEEE MMSP'18, Vancouver, BC, Aug. 2018. [[pdf](https://www.researchgate.net/publication/327477545_DFTS_Deep_Feature_Transmission_Simulator)]  
 
-### [3] Effective TensorFlow 2 [[guide][(https://www.tensorflow.org/guide/effective_tf2)]
+### [3] Effective TensorFlow 2 [[guide](https://www.tensorflow.org/guide/effective_tf2)]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AshivDhondea/DFTS_compat_v1/blob/master/LICENSE) file for details
