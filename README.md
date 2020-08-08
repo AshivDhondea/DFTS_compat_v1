@@ -2,7 +2,9 @@
 Deep Feature Transmission Simulator (DFTS) which runs in tensorflow.compat.v1
 
 Originally released in 2018 [[1]](#references), DFTS was developed to be compatible with Tensorflow version 1 (more specifically, version 1.12) and Keras 2.2.2. The demo paper [[2]](#references) gave a brief overview of the simulator. Various changes in Tensorflow 2 [[3]](#references) break the operation of DFTS. The Tensorflow 1.12 code from DFTS can be run with little modification in Tensorflow 2 by disabling the v2 behavior. This repository contains DFTS code modified to run in Tensorflow 2.2.0 (no Keras needed) in Tensorflow v1 compatibility mode. Furthermore, this repository contains scripts to run classification simulations in DFTS.
-A fully Tensorflow v2 compatible DFTS will be developed later on.
+
+## DFTS_TF2 
+A fully Tensorflow v2 compatible DFTS is now available at! I strongly recommend to use this new TF2-compatible version of DFTS. 
 
 ## Contents
 To be completed.
